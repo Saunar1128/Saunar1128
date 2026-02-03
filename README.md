@@ -29,6 +29,10 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="45" />
   </a>
   &nbsp;&nbsp;
+  <a href="https://facebook.com/your-profile" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" width="45" />
+  </a>
+  &nbsp;&nbsp;
   <a href="https://github.com/Saunar1128" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" />
   </a>
