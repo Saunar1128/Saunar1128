@@ -30,7 +30,7 @@
   </a>
   &nbsp;&nbsp;
   <a href="https://facebook.com/your-profile" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" width="45" height="45" />
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/facebook.svg" width="45" />
   </a>
   &nbsp;&nbsp;
   <a href="https://github.com/Saunar1128" target="_blank">
