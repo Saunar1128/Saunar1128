@@ -17,39 +17,8 @@
 - 👯 I'm looking to collaborate on **open source projects**
 - 💬 Ask me about **web development, APIs, and software architecture**
 - 📫 How to reach me: **[jhosphsaunar@gmail.com](mailto:jhosphsaunar@gmail.com)**
-
 <br clear="both">
 
----
-
-## 🛠️ Tech Stack & Skills
-
-<div align="center">
-
-### Languages
-<img src="https://skillicons.dev/icons?i=js,ts,python,java,html,css,sql" />
-
-### Frameworks & Libraries
-<img src="https://skillicons.dev/icons?i=react,nodejs,django,flask" />
-
-### Tools & Technologies
-<img src="https://skillicons.dev/icons?i=git,docker,kubernetes,aws,mongodb,postgresql" />
-
-### Development Environment
-<img src="https://skillicons.dev/icons?i=vscode,github,figma,postman,linux,windows" />
-
-</div>
-
----
-
-## 🚀 Featured Projects
-
-<div align="center">
-
-[![Project 1](https://github-readme-stats.vercel.app/api/pin/?username=Saunar&repo=project-name-1&theme=radical&hide_border=true)](https://github.com/Saunar/project-name-1)
-[![Project 2](https://github-readme-stats.vercel.app/api/pin/?username=Saunar&repo=project-name-2&theme=radical&hide_border=true)](https://github.com/Saunar/project-name-2)
-
-</div>
 
 ---
 
