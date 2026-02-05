@@ -8,15 +8,15 @@
 
 ---
 
-## 🚀 About Me
+##  About Me
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
-- 🔭 I'm currently working on **exciting full-stack projects**
-- 🌱 I'm currently learning **advanced cloud technologies**
-- 👯 I'm looking to collaborate on **open source projects**
-- 💬 Ask me about **web development, APIs, and software architecture**
-- 📫 How to reach me: **[jhosphsaunar@gmail.com](mailto:jhosphsaunar@gmail.com)**
+-  I'm currently working on **exciting full-stack projects**
+-  I'm currently learning **advanced cloud technologies**
+-  I'm looking to collaborate on **open source projects**
+-  Ask me about **web development, APIs, and software architecture**
+-  How to reach me: **[jhosphsaunar@gmail.com](mailto:jhosphsaunar@gmail.com)**
 <br clear="both">
 
 
@@ -53,6 +53,6 @@
 </div>
 
 <div align="center">
-  <h3>💡 "First, solve the problem. Then, write the code." – John Johnson</h3>
-  <p>⭐ Feel free to explore and star my repositories!</p>
+  <h3> "First, solve the problem. Then, write the code." – John Johnson</h3>
+  <p> Feel free to explore and star my repositories!</p>
 </div>
